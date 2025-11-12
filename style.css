@@ -997,7 +997,7 @@ body {
     margin: 0;
 }
 
-.con9 .a2 p:hover{
+.con9 .a2 p:hover {
     cursor: pointer;
     color: rgb(44, 161, 204);
     transform: scale(1.03);
