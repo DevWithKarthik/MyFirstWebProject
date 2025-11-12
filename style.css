@@ -997,6 +997,13 @@ body {
     margin: 0;
 }
 
+.con9 .a2 p:hover{
+    cursor: pointer;
+    color: rgb(44, 161, 204);
+    transform: scale(1.03);
+    transition: 0.5s;
+}
+
 /* Mobile Optimization */
 @media (max-width: 768px) {
     .con9 .a1 {
